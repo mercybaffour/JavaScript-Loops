@@ -38,7 +38,7 @@ Give the user 5 tries to guess.
 
 Message to the user if their guesses are too high or low
 
-## Activity 4 - Triangles
+## Activity 2 - Triangles
 
 Activiy should be done in groups, size 2-4. 
 
